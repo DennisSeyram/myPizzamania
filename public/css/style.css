@@ -1,0 +1,41 @@
+body {
+  background-color: lightblue;
+}
+
+.my-class{
+  background-color: beige;
+}
+
+.footer{
+  background-color: grey;
+  height: 10vh;
+  border: 5px solid black;
+}
+
+.col1{
+  background-color: purple;
+  color: yellow;
+  border: solid 6px white;
+}
+
+.nestingcol{
+  background-color: blue;
+  height: 10vh;
+  color: #fff;
+}
+
+.nestingcol2{
+  background-color: pink;
+  height: 10vh;
+  color: #fff;
+}
+
+.smallcol{
+  background-color: grey;
+  color: white;
+}
+
+.smallcol2{
+  background-color: orange;
+  color: white;
+}

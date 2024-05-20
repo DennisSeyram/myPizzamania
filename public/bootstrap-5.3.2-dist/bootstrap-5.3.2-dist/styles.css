@@ -1,0 +1,30 @@
+
+
+.container{
+  background-color: aliceblue;
+  
+  
+}
+
+.row{
+  text-align: center;
+ 
+}
+
+.you{
+  background-color: orange;
+  color: white;
+  text-align: center;
+  
+  
+}
+
+.moure{
+  background-color: grey;
+  height: 50px;
+  text-align: right;
+  color: white;
+  font-size: 30px;
+ 
+  
+}
